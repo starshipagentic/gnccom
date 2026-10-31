@@ -1,2 +1,3 @@
 # gnccom
-Placeholder repo for the gnccom project
+
+Placeholder package. The `gnccom` name is reserved for a future project.
